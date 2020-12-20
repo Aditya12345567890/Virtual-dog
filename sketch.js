@@ -5,8 +5,8 @@ var foodstock,foods;
 var database;
 function preload()
 {
-  dogimg=loadImage("images/dogImg1.png");
-  happydog=loadImage("images/dogImg.png");
+  dogimg=loadImage("dogImg1.png");
+  happydog=loadImage("dogImg.png");
 	//load images here
 }
 
